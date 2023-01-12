@@ -1,1 +1,37 @@
+body {
+  background-color: #E8DCB5;
+  color: #FF91AF;
+  font-family: Gadugi, Arial, helvetica, sans-serif;
+  position: relative;
+  background-attachment: fixed;
+  background-size: ;
+  min-width: 100%;
+  justify-content: center;
+}
 
+
+.page {
+  aspect-ratio: 1/1.57;
+  margin: 10%;
+  background-color: #E8DCB5;
+  padding: 2%;
+  border: 3px solid
+}
+
+.exp-header {
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 3px solid;
+  border-bottom: 3px solid;
+  background-color: rgba(0,0,0, 0.05)
+}
+
+.background_donut {
+  position: absolute;
+  text-align: center;
+  background-color: ;
+  min-width: 110%;
+  margin-left: -5% ;
+  margin-top: -15%;
+  z-index: -1
+}
